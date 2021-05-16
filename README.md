@@ -1,7 +1,7 @@
 # CaptureScreenCustom
 自定义区域屏幕截图
 
-void Start()
+   void Start()
     {
 
         Vector3[] img4 = new Vector3[4];
